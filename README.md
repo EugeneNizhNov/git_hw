@@ -36,3 +36,7 @@ https://github.com/EugeneNizhNov/git_hw/commit/3341572995d6c79112eff3217e2a5f997
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
 #### Ответ:
+
+https://github.com/EugeneNizhNov/git_hw/commit/c97b5b336b605ec18df5b3bfaeb3fce03533856c
+
+---
